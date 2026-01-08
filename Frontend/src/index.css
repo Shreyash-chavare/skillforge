@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* Optional: ensure full-height for gradient sections if needed */
+html, body, #root {
+  height: 100%;
+}
+
+.prose pre {
+  background-color: #1e293b; /* slate-800 */
+  color: #f8fafc; /* text-white */
+  padding: 1rem;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+}
+.prose code {
+  background-color:black; /* slate-100 */
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+  color: white;
+}
