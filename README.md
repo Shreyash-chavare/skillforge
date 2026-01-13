@@ -5,7 +5,7 @@
 
 **SkillForge** is an AI-powered learning platform that revolutionizes the way users acquire new skills through personalized lessons, interactive quizzes, comprehensive progress tracking, and intelligent AI-based recommendations.
 
-[Live Demo](https://skillforge-frontend-dyg3.onrender.com) • [Report Bug](https://github.com/yourusername/skillforge/issues) • [Request Feature](https://github.com/yourusername/skillforge/issues)
+[Live Demo](https://skillforge-frontend-dyg3.onrender.com) • [Report Bug](https://github.com/Shreyash-chavare/skillforge/issues) • [Request Feature](https://github.com/Shreyash-chavare/skillforge/issues)
 
 ---
 
@@ -172,7 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Shreyash-chavare)
+- GitHub: [Shreyash-chavare](https://github.com/Shreyash-chavare)
 - Email: shreyashchavare@gmail.com
 
 ---
