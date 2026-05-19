@@ -6,7 +6,7 @@ import dotenv from 'dotenv'
 dotenv.config()
 const dbg=dbgr("development:Mongoose")
 
-const dbUri=process.env.NODE_ENV=='production'?`${config.get("Mongo_URI")}` :`${config.get("DB_URI")}/Skillforge`
+const dbUri=process.env.NODE_ENV=='production'?process.env.MONGO_URI :`${config.get("DB_URI")}/Skillforge`
 
 mongoose.connect(dbUri)
 .then(()=>{
